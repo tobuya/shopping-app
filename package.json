@@ -3,6 +3,9 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@emotion/react": "^11.10.6",
+    "@emotion/styled": "^11.10.6",
+    "@mui/material": "^5.11.10",
     "@reduxjs/toolkit": "^1.7.2",
     "cra-template-redux": "1.0.3",
     "react": "^17.0.2",
